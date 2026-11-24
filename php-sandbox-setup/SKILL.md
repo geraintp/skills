@@ -1,6 +1,6 @@
 ---
 name: php-sandbox-setup
-description: Set up this Docker sandbox for Laravel or WordPress work\: PHP, Composer, Node, and MySQL or Postgres, at the versions the project declares.
+description: Set up this Docker sandbox for Laravel or WordPress work PHP, Composer, Node, and MySQL or Postgres, at the versions the project declares.
 disable-model-invocation: true
 ---
 
